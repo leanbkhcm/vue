@@ -1,1 +1,6 @@
 @mouseover = "handleEvent($event, parameter1)"
+
+v-bind   :
+v-if
+v-for
+@nameFunc   when click
